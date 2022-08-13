@@ -1,17 +1,21 @@
-
 # Yaku
 
-<!-- badges: start -->
-<!-- badges: end -->
+Yaku is a package for data processing of water resources of Peru.
 
-The goal of Yaku is to ...
-
-## Installation
+## Installation from R
 
 You can install the released version of Yaku from [CRAN](https://CRAN.R-project.org) with:
 
 ``` r
 install.packages("Yaku")
+```
+
+## Installation from Github
+
+You can install the released version of Yaku from [Github](https://github.com/GeomarPerales) with:
+
+``` r
+devtools::install_github("GeomarPerales/Yaku")
 ```
 
 ## Example
